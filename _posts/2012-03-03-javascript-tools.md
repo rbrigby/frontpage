@@ -6,6 +6,8 @@ title: javascript tools
 {{ page.title }}
 ================
 
+<p class="meta">3 Feb 2012 - Pleasant Grove, UT</p>
+
 Ajax
 [jquery](http://jquery.com/)
 
