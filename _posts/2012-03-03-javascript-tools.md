@@ -9,24 +9,30 @@ title: javascript tools
 <p class="meta">3 Feb 2012 - Pleasant Grove, UT</p>
 
 Ajax
-[jquery](http://jquery.com/)
+====
+* Jquery [jquery](http://jquery.com/)
 
 Animation
-[create.js](http://createjs.com/)
+=========
+* create.js [create.js](http://createjs.com/)
 
 Frameworks
-[backbone.js](http://documentcloud.github.com/backbone/)
-[ember.js](http://emberjs.com/)
-[enyo.js](http://enyojs.com/)
-[extJs/sencha](http://www.sencha.com/)
-[jquery mobile](http://jquerymobile.com/)
-[sproutcore](http://sproutcore.com/)
+==========
+* backbone.js [backbone.js](http://documentcloud.github.com/backbone/)
+* ember.js [ember.js](http://emberjs.com/)
+* enyo.js [enyo.js](http://enyojs.com/)
+* sencha [extJs/sencha](http://www.sencha.com/)
+* jquery mobile [jquery mobile](http://jquerymobile.com/)
+* sproutcore [sproutcore](http://sproutcore.com/)
 
 Presentation
-[impress.js](http://bartaz.github.com/impress.js/#/bored)
+============
+* impress.js [impress.js](http://bartaz.github.com/impress.js/#/bored)
 
 Progressive Enhancement
-[modernizr.js](http://www.modernizr.com/)
+=======================
+* modernizr.js [modernizr.js](http://www.modernizr.com/)
 
 Server Side
-[node.js](http://nodejs.org/)
+===========
+* node.js [node.js](http://nodejs.org/)
