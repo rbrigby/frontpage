@@ -1,0 +1,3 @@
+markdown: rdiscount
+pygments: true
+permalink: /ryanrigby/:year/:month/:day/:title
