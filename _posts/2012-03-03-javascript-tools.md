@@ -10,29 +10,29 @@ title: javascript tools
 
 Ajax
 ====
-* [jquery](http://jquery.com/) I have been a heavy jquery user for about a year now.  I love using json rails services with jquery.  It makes some of the interfaces that I have developed work very smoothly.
+* [jquery](http://jquery.com/) - I have been a heavy jquery user for about a year now.  I love using json rails services with jquery.  It makes some of the interfaces that I have developed work very smoothly.
 
 Animation
 =========
-* create.js [create.js](http://createjs.com/)
+* [create.js](http://createjs.com/)
 
 Frameworks
 ==========
-* backbone.js [backbone.js](http://documentcloud.github.com/backbone/) I tinkered with backbone this year and put up a small little site called sift3r.com.  I was going to try and turn it into a curated hacker news.  It is running on the heroku cloud and is using mongodb as its datastore.
-* ember.js [ember.js](http://emberjs.com/)
-* enyo.js [enyo.js](http://enyojs.com/) - this framework has been open sourced by HP.  It will be very interesting to see where it goes from here.
-* sencha [extJs/sencha](http://www.sencha.com/)
-* jquery mobile [jquery mobile](http://jquerymobile.com/) - I built a demo application for Hughes using jquery mobile.  It has alot going for it.  There could be some really good use cases for going with it.  I ditched it in the name of more flexibility, but I have the sneaking suspicion that if I had invested more time with it that I would have created some cool interfaces.
-* sproutcore [sproutcore](http://sproutcore.com/)
+* [backbone.js](http://documentcloud.github.com/backbone/) - I tinkered with backbone this year and put up a small little site called sift3r.com.  I was going to try and turn it into a curated hacker news.  It is running on the heroku cloud and is using mongodb as its datastore.
+* [ember.js](http://emberjs.com/)
+* [enyo.js](http://enyojs.com/) - this framework has been open sourced by HP.  It will be very interesting to see where it goes from here.
+* [extJs/sencha](http://www.sencha.com/)
+* [jquery mobile](http://jquerymobile.com/) - I built a demo application for Hughes using jquery mobile.  It has alot going for it.  There could be some really good use cases for going with it.  I ditched it in the name of more flexibility, but I have the sneaking suspicion that if I had invested more time with it that I would have created some cool interfaces.
+* [sproutcore](http://sproutcore.com/)
 
 Presentation
 ============
-* impress.js [impress.js](http://bartaz.github.com/impress.js/#/bored)
+* [impress.js](http://bartaz.github.com/impress.js/#/bored)
 
 Progressive Enhancement
 =======================
-* modernizr.js [modernizr.js](http://www.modernizr.com/) - I have a goal to use this in one project this year.  I really like the idea of sensing the capabilities of a browser instead of the old user agent hack code that too many professed web professionals are using.
+* [modernizr.js](http://www.modernizr.com/) - I have a goal to use this in one project this year.  I really like the idea of sensing the capabilities of a browser instead of the old user agent hack code that too many professed web professionals are using.
 
 Server Side
 ===========
-* node.js [node.js](http://nodejs.org/)
+* [node.js](http://nodejs.org/)
