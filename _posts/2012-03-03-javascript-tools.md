@@ -20,8 +20,6 @@ Frameworks
 ==========
 * [backbone.js](http://documentcloud.github.com/backbone/) - I tinkered with backbone this year and put up a small little site called sift3r.com.  I was going to try and turn it into a curated hacker news.  It is running on the heroku cloud and is using mongodb as its datastore.
 * [ember.js](http://emberjs.com/)
-* [enyo.js](http://enyojs.com/) - this framework has been open sourced by HP.  It will be very interesting to see where it goes from here.
-* [extJs/sencha](http://www.sencha.com/)
 * [jquery mobile](http://jquerymobile.com/) - I built a demo application for Hughes using jquery mobile.  It has alot going for it.  There could be some really good use cases for going with it.  I ditched it in the name of more flexibility, but I have the sneaking suspicion that if I had invested more time with it that I would have created some cool interfaces.
 * [sproutcore](http://sproutcore.com/)
 
