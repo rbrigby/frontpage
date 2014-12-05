@@ -1,6 +1,6 @@
 ---
 layout: post
-title: javascript tools
+title: js favs
 ---
 
 {{ page.title }}
