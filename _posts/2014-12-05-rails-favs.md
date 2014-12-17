@@ -1,6 +1,6 @@
 ---
 layout: post
-title: rails favs
+title: Rails Favs
 ---
 
 {{ page.title }}
