@@ -1,6 +1,6 @@
 ---
 layout: post
-title: js favs
+title: JS Favs
 ---
 
 {{ page.title }}
@@ -21,10 +21,9 @@ MVC
 
 Tools
 ==========
-* [jquery](http://jquery.com/) - I have been a heavy jquery user for about a year now.  I love using json rails services with jquery.  It makes some of the interfaces that I have developed work very smoothly.
-* [jquery mobile](http://jquerymobile.com/) - I built a demo application for Hughes using jquery mobile.  It has alot going for it.  There could be some really good use cases for going with it.  I ditched it in the name of more flexibility, but I have the sneaking suspicion that if I had invested more time with it that I would have created some cool interfaces.
-* [modernizr.js](http://www.modernizr.com/) - I have a goal to use this in one project this year.  I really like the idea of sensing the capabilities of a browser instead of the old user agent hack code that too many professed web professionals are using.
-
+* [jquery](http://jquery.com/)
+* [jquery mobile](http://jquerymobile.com/)
+* [modernizr.js](http://www.modernizr.com/)
 
 Node / NPM
 ===========
